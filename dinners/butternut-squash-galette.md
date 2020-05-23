@@ -7,8 +7,7 @@ Source: [Smitten Kitchen](https://smittenkitchen.com/2007/10/butternut-squash-an
 For the pastry:
 - 1 1/4 cups all-purpose flour
 - 1/4 teaspoon salt
-- 8 tablespoons (1 stick) unsalted butter, cut into
-- pieces
+- 8 tablespoons (1 stick) unsalted butter, cut into pieces
 - 1/4 cup sour cream or plain yogurt
 - 2 teaspoons fresh lemon juice
 - 1/4 cup ice water
