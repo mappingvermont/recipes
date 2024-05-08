@@ -7,15 +7,15 @@ Source: [Cookie and Kate](https://cookieandkate.com/black-bean-sweet-potato-ench
 Filling:
 - 2 medium sweet potatoes
 - 1 can black beans, drained
-- 4 ounces / 1 cup grated Monterey Jack
-- 2 ounces / 1/2 crumbled feta
+- 4 ounces grated Monterey Jack
+- 1/2 cup crumbled feta
 - 2 small cans (4 ounces each) diced green chiles
 - 1 medium jalapeño, seeded and minced
 - 2 cloves garlic
 - 1 lime / 2 tablespoons lime juice
 - 1/2 teaspoon ground cumin
 - 1/2 teaspoon chili powder
-- 1/4 teaspoon cayenne pepper 
+- 1/4 teaspoon cayenne pepper
 - 1/4 teaspoon salt, more to taste
 - Black pepper
 
@@ -23,7 +23,7 @@ Sauce:
 
 - 2 cups / 16 ounces salsa verde
 - 10 flour tortillas
-- 4 ounces / 1 cup grated Monterey Jack 
+- 4 ounces / 1 cup grated Monterey Jack
 
 ### Instructions
 
