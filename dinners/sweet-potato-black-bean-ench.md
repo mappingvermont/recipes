@@ -5,18 +5,17 @@ Source: [Cookie and Kate](https://cookieandkate.com/black-bean-sweet-potato-ench
 ### Ingredients
 
 Filling:
-- 2 medium sweet potatoes
-- 1 can black beans, drained
-- 4 ounces grated Monterey Jack
-- 1/2 cup crumbled feta
-- 2 small cans (4 ounces each) diced green chiles
-- 1 medium jalapeño, seeded and minced
-- 2 cloves garlic
-- 1 lime / 2 tablespoons lime juice
-- 1/2 teaspoon ground cumin
-- 1/2 teaspoon chili powder
-- 1/4 teaspoon cayenne pepper
-- 1/4 teaspoon salt, more to taste
+- 2 lbs Covington sweet potatoes
+- 1.5 cans black beans, drained
+- 6 ounces grated Monterey Jack
+- 3/4 cup crumbled feta
+- 3 small cans (4 ounces each) diced green chiles
+- 3 cloves garlic
+- 1.5 limes
+- 3/4 teaspoon ground cumin
+- 3/4 teaspoon chili powder
+- 1/2 teaspoon cayenne pepper
+- 1/2 teaspoon salt, more to taste
 - Black pepper
 
 Sauce:
